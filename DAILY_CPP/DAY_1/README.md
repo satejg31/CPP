@@ -1,10 +1,9 @@
 ## DAY 1
+This directory contains basic programs related to the following topics:
 
-This directory contains basic programs related to the topics :
+- **Arithmetic Operations**
 
-a] arithmetic operation
+- **If-Else Statements**
 
-b] if-else
-
-c] loops for and while
+- **Loops (For and While)**
 
